@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\C#\SENAI\PrimeiroPOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.genruntimeconfig.cache
